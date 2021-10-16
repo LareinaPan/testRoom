@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "返利",
+    "children" : [ {
+      "name" : "返利-homepage",
+      "children" : [ {
+        "name" : "接口校验",
+        "uid" : "c3642be418b1d909",
+        "parentUid" : "26d4cdc3a0653ce12c05c2a1fa33dfb1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1633615844390,
+          "stop" : 1633615844527,
+          "duration" : 137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "26d4cdc3a0653ce12c05c2a1fa33dfb1"
+    } ],
+    "uid" : "db975f754ac8e5227600ef78d1690095"
+  } ]
+}

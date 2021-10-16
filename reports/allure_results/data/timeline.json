@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-R4FJJTT",
+    "children" : [ {
+      "name" : "34136-MainThread",
+      "children" : [ {
+        "name" : "接口校验",
+        "uid" : "c3642be418b1d909",
+        "parentUid" : "31d8f582f39f585553c55264ac4719cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1633615844390,
+          "stop" : 1633615844527,
+          "duration" : 137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31d8f582f39f585553c55264ac4719cb"
+    } ],
+    "uid" : "db6c37953609225287f998b100a6c1db"
+  } ]
+}

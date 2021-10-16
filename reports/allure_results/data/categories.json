@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "AttributeError: 'int' object has no attribute 'status_code'",
+      "children" : [ {
+        "name" : "接口校验",
+        "uid" : "c3642be418b1d909",
+        "parentUid" : "8a19e6574771952ecc74ffeead85a867",
+        "status" : "broken",
+        "time" : {
+          "start" : 1633615844390,
+          "stop" : 1633615844527,
+          "duration" : 137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a19e6574771952ecc74ffeead85a867"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

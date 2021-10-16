@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c3642be418b1d909",
+  "name" : "接口校验",
+  "time" : {
+    "start" : 1633615844390,
+    "stop" : 1633615844527,
+    "duration" : 137
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
